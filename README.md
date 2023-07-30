@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kamalansarii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kamalansarii/kamalansarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Venture Builder.
+- 🌱 I’m interested in ‎Serial Entrepreneur.
+- 💞️ I’m interested in Technology Innovation.
+- 📫 How to reach me for Business leader.
+- 📫 I am interested in investing in the development of startup projects.
+-    I look forward to hearing your suggestions.
