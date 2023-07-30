@@ -4,4 +4,4 @@
 - 💞️ I’m interested in Technology Innovation.
 - 📫 How to reach me for Business leader.
 - 📫 I am interested in investing in the development of startup projects.
--    I look forward to hearing your suggestions.
+- 👋 I look forward to hearing your suggestions.
